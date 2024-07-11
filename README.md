@@ -1,7 +1,7 @@
 # Mauro Agustín Lucero - Perfil GitHub 👨🏻‍💻
 
 ## Sobre Mí 🙋🏻‍♂️
-Nací el 29 de julio de 1997 y he vivido toda mi vida en Villa Mercedes. Soy programador, estudiante universitario y autodidacta. Siempre estoy dispuesto a seguir aprendiendo y a compartir mis experiencias y conocimientos para mejorar el desempeño general de trabajo.
+Nací el 29 de julio de 1997 y he vivido toda mi vida en Villa Mercedes, San Luis, Argentina. Soy programador, estudiante universitario y autodidacta. Siempre estoy dispuesto a seguir aprendiendo y a compartir mis experiencias y conocimientos para mejorar el desempeño general de trabajo.
 
 ## Contacto 🔗
 - Email: [mauroaglucero@gmail.com](mailto:mauroaglucero@gmail.com)
