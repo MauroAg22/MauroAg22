@@ -1,20 +1,24 @@
-# Mauro Agustín Lucero - Perfil GitHub 👨🏻‍💻
+# ¡Hola, bienvenido a mi perfil de GitHub! 👨🏻‍💻
 
-## Sobre Mí 🙋🏻‍♂️
-Nací el 29 de julio de 1997 y he vivido toda mi vida en Villa Mercedes, San Luis, Argentina. Soy programador, estudiante universitario y autodidacta. Siempre estoy dispuesto a seguir aprendiendo y a compartir mis experiencias y conocimientos para mejorar el desempeño general de trabajo.
+Soy Mauro Agustín Lucero, programador y desarrollador web.
+
+Tengo 27 años, nací el 29 de julio de 1997, y he vivido toda mi vida en Villa Mercedes, San Luis, Argentina. Actualmente, estoy cursando estudios universitarios, y además soy autodidacta. Me apasiona aprender y explorar nuevas tendencias en el campo de la programación.
+
+Te invito a visitar mi sitio web personal haciendo [clic aquí](https://www.maurolucero.com.ar/) para conocerme mejor.
 
 ## Contacto 🔗
-- Email: [mauroaglucero@gmail.com](mailto:mauroaglucero@gmail.com)
+- E-mail: [mauroaglucero@gmail.com](mailto:mauroaglucero@gmail.com)
 - LinkedIn: [linkedin.com/in/mauro-ag-lucero](https://www.linkedin.com/in/mauro-ag-lucero/)
+- WhatsApp: [+54 9 2657 70-9769](https://wa.me/5492657709769)
 
 ## Aptitudes ✅
-Mi aptitud más fuerte es la programación, especialmente el desarrollo de sitios web y la programación de sistemas de información.
+Mi fortaleza principal es la programación, con un enfoque en el desarrollo de sitios web y sistemas de información.
 
 - **Tecnologías:**
     - HTML – CSS – Bootstrap – JavaScript
     - PHP – MySQL – Apache
 
-- **Aprendiendo:**
+- **Actualmente Aprendiendo:**
     - Laravel
     - React
 
@@ -24,6 +28,8 @@ Mi aptitud más fuerte es la programación, especialmente el desarrollo de sitio
     - MySQL Workbench
 
 - **Otros Conocimientos:**
-    - Word – Excel – PowerPoint – Paint.NET – SketchUp
+    - Word – Excel – PowerPoint – Visio – Paint.NET – SketchUp
 
-Estructurado y muy ordenado. Mantengo mi espacio de trabajo siempre en orden. Dedico tiempo a informarme bien antes de comenzar cualquier trabajo para lograr el mejor desempeño.
+Soy muy estructurado y organizado. Mantengo mi espacio de trabajo siempre en orden y dedico tiempo a informarme bien antes de comenzar cualquier proyecto, con el objetivo de alcanzar el mejor desempeño posible.
+
+Te invito a explorar los distintos repositorios que tengo disponibles aquí en GitHub. ¡Estoy seguro de que encontrarás proyectos interesantes!
