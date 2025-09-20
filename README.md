@@ -2,7 +2,7 @@
 
 Soy Mauro Agustín Lucero, programador y desarrollador web.
 
-Tengo 27 años, nací el 29 de julio de 1997, y he vivido toda mi vida en Villa Mercedes, San Luis, Argentina. Actualmente, estoy cursando estudios universitarios, y además soy autodidacta. Me apasiona aprender y explorar nuevas tendencias en el campo de la programación.
+Tengo 28 años, nací el 29 de julio de 1997, y he vivido toda mi vida en Villa Mercedes, San Luis, Argentina. Actualmente, estoy cursando estudios universitarios, y además soy autodidacta. Me apasiona aprender y explorar nuevas tendencias en el campo de la programación.
 
 Te invito a visitar mi sitio web personal haciendo [clic aquí](https://www.maurolucero.com.ar/) para conocerme mejor.
 
